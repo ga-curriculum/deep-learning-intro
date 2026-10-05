@@ -19,10 +19,10 @@ This unit provides an introduction to neural networks and their applications. Yo
 
 | Topic |  About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/) | Conceptual introduction to neural networks. |
-| [0OP Review](./02-oop-review) | Review of classes in Python |
-| [Intro to PyTorch](./03-intro-to-PyTorch) | An introduction to PyTorch |
-| [Activation Functions](./04-activation-functions) | visualizing the different activation functions |
+| [Full Lesson Deck](https://github.com/ga-curriculum/deep-learning-intro/blob/main/01-slides/Deep-Learning-Introduction-to-Frameworks-and-Tools.pdf){:target="_blank"} | Conceptual introduction to neural networks. |
+| [0OP Review](https://github.com/ga-curriculum/deep-learning-intro/tree/main/02-oop-review){:target="_blank"} | Review of classes in Python |
+| [Intro to PyTorch](https://github.com/ga-curriculum/deep-learning-intro/tree/main/03-intro-to-pytorch){:target="_blank"} | An introduction to PyTorch |
+| [Activation Functions](https://github.com/ga-curriculum/deep-learning-intro/tree/main/04-activation-functions){:target="_blank"} | visualizing the different activation functions |
 
 
 ## Prerequisites
